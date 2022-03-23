@@ -656,7 +656,7 @@ class ChatBot(Client):
                   thread_type=thread_type)
 
 
-cookies = {"sb": "XxLZYVJH10umqpWGhCO9JW-A", "datr": "XxLZYRilDXkcOrMhdHSihb3Z", "dpr": "1.25", "c_user": "100069224810230", "xs": "9%3AwaN4-QIrRI1TlQ%3A2%3A1647856697%3A-1%3A3585", "wd": "1284x730", "fr": "03l5zx11WgVrAgBaF.AWVpNEp8MmbMRSsAqXmqi4KAenA.Bh2RJf.5r.AAA.0.0.BiMYP2.AWUlFRM8DuQ", "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1647412219440%2C%22lm3%22%3A%22u.100026734412800%22%2C%22v%22%3A1%7D"}
+cookies = {"sb": "XxLZYVJH10umqpWGhCO9JW-A", "datr": "XxLZYRilDXkcOrMhdHSihb3Z", "dpr": "1.25", "c_user": "100069224810230", "xs": "2%3ApOrKKGeDFrNQUQ%3A2%3A1648016950%3A-1%3A3585", "wd": "1284x730", "fr": "03l5zx11WgVrAgBaF.AWVpNEp8MmbMRSsAqXmqi4KAenA.Bh2RJf.5r.AAA.0.0.BiMYP2.AWUlFRM8DuQ", "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1647412219440%2C%22lm3%22%3A%22u.100026734412800%22%2C%22v%22%3A1%7D"}
 
 # enter your email and password facebook
 client=ChatBot("",
